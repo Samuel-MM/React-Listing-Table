@@ -1,3 +1,6 @@
+## Info
+This project is a simple list in the form of a table of student data (Pokémons) to practice ReactJs, Tailwind and TypeScript
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
